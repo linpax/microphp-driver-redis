@@ -1,0 +1,12 @@
+{
+  "name": "linpax/microphp-driver-redis",
+  "description": "MicroPHP driver Redis",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zcasper",
+      "email": "testuser@mail.linpax.org"
+    }
+  ]
+}
