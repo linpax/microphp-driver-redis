@@ -8,5 +8,13 @@
       "name": "Zcasper",
       "email": "testuser@mail.linpax.org"
     }
-  ]
+  ],
+  "require": {
+    "linpax/microphp-driver": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Micro\\Driver\\Redis\\": "src/"
+    }
+  }
 }
